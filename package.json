@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "name": "ngSmoothScroll",
-  "main": "lib/angular-smooth-scroll.js",
+  "main": "dist/angular-smooth-scroll.min.js",
   "description": "A pure-javascript library and set of directives to scroll smoothly to an element with easing.",
   "dependencies": {
     "angular": "^1.2.0"
