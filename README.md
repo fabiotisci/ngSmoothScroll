@@ -1,6 +1,8 @@
 Angular smooth scroll
 ==============
 
+This is a npm version of ngSmoothScroll that's only available on bower. Visit this repo for more information: https://github.com/d-oliveros/ngSmoothScroll
+
 A pure-javascript library and set of directives to scroll smoothly to an element with easing. Easing support contributed by Willem Liu with code from Gaëtan Renaudeau.
 
 No jQuery required.
@@ -18,12 +20,12 @@ Include the .js file in your page then enable usage of the directive by includin
 as a dependency
 
 
-# Bower
+# npm
 
-Install with bower with:
+Install with npm with:
 
 ```bash
-bower install ngSmoothScroll
+npm install ngSmoothScroll
 ```
 
 # Usage - As a directive
